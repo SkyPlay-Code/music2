@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Sanctuary | Audio Vault</title>
+    
+    <!-- Fonts: Cinzel for headers, Manrope for UI -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Manrope:wght@300;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Scripts -->
+    <!-- Important: songs.js must load first to define the playlist data -->
+    <script src="js/songs.js" defer></script> 
+    <script src="js/auth.js" defer></script>
+    <script src="js/player.js" defer></script>
+</head>
+<body>
+
+    <!-- === BACKGROUND AMBIANCE === -->
+    <div class="aurora-bg">
+        <div class="aurora-orb orb-1"></div>
+        <div class="aurora-orb orb-2"></div>
+        <div class="aurora-orb orb-3"></div>
+    </div>
+    <div class="noise-overlay"></div>
+
+    <!-- === ACCESS GATE (Login) === -->
+    <section id="login-screen">
+        <div class="login-content">
+            <h1 class="brand-title">Sanctuary</h1>
+            <p class="subtitle">Private Audio Collection</p>
+            
+            <div class="input-group">
+                <input type="password" id="password-input" placeholder="ACCESS CODE" autocomplete="off">
+                <button id="submit-password" aria-label="Unlock"><i class="fas fa-arrow-right"></i></button>
+            </div>
+            <p id="error-message" class="error-text"></p>
+        </div>
+    </section>
+
+    <!-- === MAIN APPLICATION === -->
+    <div id="app-container">
+        
+        <!-- Mobile Toggle (Only visible on small screens) -->
+        <div class="mobile-header">
+            <button id="menu-toggle" aria-label="Open Library">
+                <i class="fas fa-bars-staggered"></i>
+            </button>
+            <span class="mobile-logo">Sanctuary</span>
+        </div>
+
+        <!-- Left Panel: Music Library -->
+        <aside id="library-panel">
+            <div class="library-header">
+                <h2>Library</h2>
+                <div class="divider"></div>
+            </div>
+            <ul id="song-list">
+                <!-- Javascript will insert playlist items here -->
+            </ul>
+        </aside>
+
+        <!-- Right Panel: Player & Visuals -->
+        <main id="player-panel">
+            
+            <div class="now-playing-visual">
+                <div class="art-wrapper">
+                    <!-- Album Art -->
+                    <img src="img/placeholder-art.jpg" alt="Album Art" id="album-art">
+                    <!-- Dynamic Glow Behind Art -->
+                    <div class="art-glow" id="art-glow"></div>
+                </div>
+
+                <div class="track-details">
+                    <h2 id="current-track-title">Welcome</h2>
+                    <h3 id="current-track-artist">Enter a code to unlock</h3>
+                </div>
+            </div>
+
+            <!-- Player Controls Box -->
+            <div class="controls-wrapper">
+                
+                <div class="lyrics-btn-wrapper">
+                     <button id="toggle-lyrics" class="secondary-btn" title="View Lyrics">
+                        <i class="fas fa-quote-right"></i>
+                     </button>
+                </div>
+
+                <!-- Seek Bar -->
+                <div class="progress-area">
+                    <span id="current-time">0:00</span>
+                    <input type="range" id="progress-bar" value="0" step="0.1" class="custom-slider" aria-label="Seek">
+                    <span id="duration">0:00</span>
+                </div>
+
+                <!-- Play/Pause/Skip -->
+                <div class="main-buttons">
+                    <button id="prev-button" class="ctrl-btn sm" aria-label="Previous"><i class="fas fa-backward-step"></i></button>
+                    <button id="play-pause-button" class="ctrl-btn play-xl" aria-label="Play/Pause"><i class="fas fa-play"></i></button>
+                    <button id="next-button" class="ctrl-btn sm" aria-label="Next"><i class="fas fa-forward-step"></i></button>
+                </div>
+
+                <!-- Volume -->
+                <div class="volume-area">
+                    <i class="fas fa-volume-low"></i>
+                    <input type="range" id="volume-control" min="0" max="1" step="0.05" value="0.8" class="custom-slider vol" aria-label="Volume">
+                </div>
+            </div>
+
+            <!-- HTML5 Audio Element (Hidden) -->
+            <!-- crossorigin is essential for the Audio Context Visualizer to work with loaded files -->
+            <audio id="audio-element" crossorigin="anonymous"></audio>
+
+            <!-- Real-time Audio Visualizer -->
+            <canvas id="visualizer"></canvas>
+
+        </main>
+
+        <!-- Lyrics Pop-up Overlay -->
+        <div id="lyrics-overlay">
+            <div class="lyrics-content">
+                <button id="close-lyrics" aria-label="Close Lyrics"><i class="fas fa-xmark"></i></button>
+                <h3 class="lyrics-header">Lyrics</h3>
+                <p id="lyrics-text">No lyrics available.</p>
+            </div>
+        </div>
+
+        <!-- Dark overlay for when mobile menu is open -->
+        <div id="mobile-overlay"></div>
+
+    </div>
+
+</body>
+</html>
