@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'skymusic#25': 'skymusic', 
         'galaxy*7':    'lemon',     
         'foryou0':     'forher',     
-        'boss':    'valiant'     
+        'sabyboss':    'valiant'     
     };
 
     // =========================================================

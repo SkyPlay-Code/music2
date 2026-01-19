@@ -909,279 +909,279 @@ Just us two.
 Don't tell it.
 (Whisper)
 Slumber party's over.`
+        },
+        {
+            title: "A Different Face",
+            artist: "SkyMusic",
+            file: "audio/Prince Valiant & The Boss.mp3",
+            cover: "images/A Different Face.png",
+            lyrics: `(Verse 1)
+Black shirt, piercing, a desi mafia style
+They all see the confidence, the power in your smile
+Dreaming of the paddock, a Rolex marking time
+A future full of farmhouse wins, a mountain you can climb
+They see the queen who's ready to take on any race
+But they don't see the flicker of doubt upon your face.
+
+(Pre-Chorus)
+But I see something different, past the perfect scene
+I read the lines of poetry you hide in between
+The ones that talk of loneliness, the feeling out of place
+It’s like I'm looking at myself, with a different face.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Verse 2)
+Raat ke dedh baje, humari ajeeb si kahani
+Kaun sardi mein nahaye, yeh teri-meri pareshani
+You hold a tangled serpent, and you see the beauty there
+A misunderstood magic, a love beyond compare
+And when you say "Jo mila sahi hai", like you don't have a choice
+I just want to be the one to amplify your voice.
+
+(Pre-Chorus)
+'Cause you see something different, you see me standing there
+The only one you talk to, the only one who'd dare
+To call you Prince Valiant and mean it every time
+A friendship this pure should be a perfect crime.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Bridge)
+So let the world just wonder, let them try to see
+The crazy kind of energy between you and me
+They can call me Siddhi, it feels a little strange
+But with you, my Prince Valiant, nothing has to change
+Aur suno, Chhote Boss, you're the most handsome that I've met
+I promise you’re not lonely... that's a promise you can get.
+My promise to you, Saby.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Outro)
+Yeah, just me and you...
+You have me and I have you.
+Sleep well, my favorite person...
+My mighty boss.
+`
+        },
+
+        {
+            title: "A Different Face V2",
+            artist: "SkyMusic",
+            file: "audio/Prince Valiant & The Boss V2.mp3",
+            cover: "images/A Different Face V2.png",
+            lyrics: `(Verse 1)
+Black shirt, piercing, a desi mafia style
+They all see the confidence, the power in your smile
+Dreaming of the paddock, a Rolex marking time
+A future full of farmhouse wins, a mountain you can climb
+They see the queen who's ready to take on any race
+But they don't see the flicker of doubt upon your face.
+
+(Pre-Chorus)
+But I see something different, past the perfect scene
+I read the lines of poetry you hide in between
+The ones that talk of loneliness, the feeling out of place
+It’s like I'm looking at myself, with a different face.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Verse 2)
+Raat ke dedh baje, humari ajeeb si kahani
+Kaun sardi mein nahaye, yeh teri-meri pareshani
+You hold a tangled serpent, and you see the beauty there
+A misunderstood magic, a love beyond compare
+And when you say "Jo mila sahi hai", like you don't have a choice
+I just want to be the one to amplify your voice.
+
+(Pre-Chorus)
+'Cause you see something different, you see me standing there
+The only one you talk to, the only one who'd dare
+To call you Prince Valiant and mean it every time
+A friendship this pure should be a perfect crime.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Bridge)
+So let the world just wonder, let them try to see
+The crazy kind of energy between you and me
+They can call me Siddhi, it feels a little strange
+But with you, my Prince Valiant, nothing has to change
+Aur suno, Chhote Boss, you're the most handsome that I've met
+I promise you’re not lonely... that's a promise you can get.
+My promise to you, Saby.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Outro)
+Yeah, just me and you...
+You have me and I have you.
+Sleep well, my favorite person...
+My mighty boss.
+`
+        },
+
+        {
+            title: "A Different Face V3(Eng))",
+            artist: "SkyMusic",
+            file: "audio/Prince Valiant & The Boss V3.mp3",
+            cover: "images/A Different Face V3.png",
+            lyrics: `
+(Verse 1)
+Black shirt, piercing, a desi mafia style
+They all see the confidence, the power in your smile
+Dreaming of the paddock, a Rolex marking time
+A future full of farmhouse wins, a mountain you can climb
+They see the queen who's ready to take on any race
+But they don't see the flicker of doubt upon your face.
+
+(Pre-Chorus)
+But I see something different, past the perfect scene
+I read the lines of poetry you hide in between
+The ones that talk of loneliness, the feeling out of place
+It’s like I'm looking at myself, with a different face.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Verse 2)
+Raat ke dedh baje, humari ajeeb si kahani
+Kaun sardi mein nahaye, yeh teri-meri pareshani
+You hold a tangled serpent, and you see the beauty there
+A misunderstood magic, a love beyond compare
+And when you say "Jo mila sahi hai", like you don't have a choice
+I just want to be the one to amplify your voice.
+
+(Pre-Chorus)
+'Cause you see something different, you see me standing there
+The only one you talk to, the only one who'd dare
+To call you Prince Valiant and mean it every time
+A friendship this pure should be a perfect crime.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Bridge)
+So let the world just wonder, let them try to see
+The crazy kind of energy between you and me
+They can call me Siddhi, it feels a little strange
+But with you, my Prince Valiant, nothing has to change
+Aur suno, Chhote Boss, you're the most handsome that I've met
+I promise you’re not lonely... that's a promise you can get.
+My promise to you, Saby.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Outro)
+Yeah, just me and you...
+You have me and I have you.
+Sleep well, my favorite person...
+My mighty boss.
+`
+        },
+
+        {
+            title: "A Different Face V4(Eng)",
+            artist: "SkyMusic",
+            file: "audio/Prince Valiant & The Boss V4.mp3",
+            cover: "images/A Different Face V4.png",
+            lyrics: `
+(Verse 1)
+Black shirt, piercing, a desi mafia style
+They all see the confidence, the power in your smile
+Dreaming of the paddock, a Rolex marking time
+A future full of farmhouse wins, a mountain you can climb
+They see the queen who's ready to take on any race
+But they don't see the flicker of doubt upon your face.
+
+(Pre-Chorus)
+But I see something different, past the perfect scene
+I read the lines of poetry you hide in between
+The ones that talk of loneliness, the feeling out of place
+It’s like I'm looking at myself, with a different face.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Verse 2)
+Raat ke dedh baje, humari ajeeb si kahani
+Kaun sardi mein nahaye, yeh teri-meri pareshani
+You hold a tangled serpent, and you see the beauty there
+A misunderstood magic, a love beyond compare
+And when you say "Jo mila sahi hai", like you don't have a choice
+I just want to be the one to amplify your voice.
+
+(Pre-Chorus)
+'Cause you see something different, you see me standing there
+The only one you talk to, the only one who'd dare
+To call you Prince Valiant and mean it every time
+A friendship this pure should be a perfect crime.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Bridge)
+So let the world just wonder, let them try to see
+The crazy kind of energy between you and me
+They can call me Siddhi, it feels a little strange
+But with you, my Prince Valiant, nothing has to change
+Aur suno, Chhote Boss, you're the most handsome that I've met
+I promise you’re not lonely... that's a promise you can get.
+My promise to you, Saby.
+
+(Chorus)
+'Cause I see both the fighters, and the hearts that feel alone
+The Boss who built a kingdom, the Poet on her throne
+And they can call it friendship, but I know it's something true
+Like you're the other half of me, and I'm the other half of you.
+
+(Outro)
+Yeah, just me and you...
+You have me and I have you.
+Sleep well, my favorite person...
+My mighty boss.
+`
         }
-//         {
-//             title: "A Different Face",
-//             artist: "SkyMusic",
-//             file: "audio/Prince Valiant & The Boss.mp3",
-//             cover: "images/A Different Face.png",
-//             lyrics: `(Verse 1)
-// Black shirt, piercing, a desi mafia style
-// They all see the confidence, the power in your smile
-// Dreaming of the paddock, a Rolex marking time
-// A future full of farmhouse wins, a mountain you can climb
-// They see the queen who's ready to take on any race
-// But they don't see the flicker of doubt upon your face.
-
-// (Pre-Chorus)
-// But I see something different, past the perfect scene
-// I read the lines of poetry you hide in between
-// The ones that talk of loneliness, the feeling out of place
-// It’s like I'm looking at myself, with a different face.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Verse 2)
-// Raat ke dedh baje, humari ajeeb si kahani
-// Kaun sardi mein nahaye, yeh teri-meri pareshani
-// You hold a tangled serpent, and you see the beauty there
-// A misunderstood magic, a love beyond compare
-// And when you say "Jo mila sahi hai", like you don't have a choice
-// I just want to be the one to amplify your voice.
-
-// (Pre-Chorus)
-// 'Cause you see something different, you see me standing there
-// The only one you talk to, the only one who'd dare
-// To call you Prince Valiant and mean it every time
-// A friendship this pure should be a perfect crime.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Bridge)
-// So let the world just wonder, let them try to see
-// The crazy kind of energy between you and me
-// They can call me Siddhi, it feels a little strange
-// But with you, my Prince Valiant, nothing has to change
-// Aur suno, Chhote Boss, you're the most handsome that I've met
-// I promise you’re not lonely... that's a promise you can get.
-// My promise to you, Saby.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Outro)
-// Yeah, just me and you...
-// You have me and I have you.
-// Sleep well, my favorite person...
-// My mighty boss.
-// `
-//         },
-
-//         {
-//             title: "A Different Face V2",
-//             artist: "SkyMusic",
-//             file: "audio/Prince Valiant & The Boss V2.mp3",
-//             cover: "images/A Different Face V2.png",
-//             lyrics: `(Verse 1)
-// Black shirt, piercing, a desi mafia style
-// They all see the confidence, the power in your smile
-// Dreaming of the paddock, a Rolex marking time
-// A future full of farmhouse wins, a mountain you can climb
-// They see the queen who's ready to take on any race
-// But they don't see the flicker of doubt upon your face.
-
-// (Pre-Chorus)
-// But I see something different, past the perfect scene
-// I read the lines of poetry you hide in between
-// The ones that talk of loneliness, the feeling out of place
-// It’s like I'm looking at myself, with a different face.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Verse 2)
-// Raat ke dedh baje, humari ajeeb si kahani
-// Kaun sardi mein nahaye, yeh teri-meri pareshani
-// You hold a tangled serpent, and you see the beauty there
-// A misunderstood magic, a love beyond compare
-// And when you say "Jo mila sahi hai", like you don't have a choice
-// I just want to be the one to amplify your voice.
-
-// (Pre-Chorus)
-// 'Cause you see something different, you see me standing there
-// The only one you talk to, the only one who'd dare
-// To call you Prince Valiant and mean it every time
-// A friendship this pure should be a perfect crime.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Bridge)
-// So let the world just wonder, let them try to see
-// The crazy kind of energy between you and me
-// They can call me Siddhi, it feels a little strange
-// But with you, my Prince Valiant, nothing has to change
-// Aur suno, Chhote Boss, you're the most handsome that I've met
-// I promise you’re not lonely... that's a promise you can get.
-// My promise to you, Saby.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Outro)
-// Yeah, just me and you...
-// You have me and I have you.
-// Sleep well, my favorite person...
-// My mighty boss.
-// `
-//         },
-
-//         {
-//             title: "A Different Face V3(Eng))",
-//             artist: "SkyMusic",
-//             file: "audio/Prince Valiant & The Boss V3.mp3",
-//             cover: "images/A Different Face V3.png",
-//             lyrics: `
-// (Verse 1)
-// Black shirt, piercing, a desi mafia style
-// They all see the confidence, the power in your smile
-// Dreaming of the paddock, a Rolex marking time
-// A future full of farmhouse wins, a mountain you can climb
-// They see the queen who's ready to take on any race
-// But they don't see the flicker of doubt upon your face.
-
-// (Pre-Chorus)
-// But I see something different, past the perfect scene
-// I read the lines of poetry you hide in between
-// The ones that talk of loneliness, the feeling out of place
-// It’s like I'm looking at myself, with a different face.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Verse 2)
-// Raat ke dedh baje, humari ajeeb si kahani
-// Kaun sardi mein nahaye, yeh teri-meri pareshani
-// You hold a tangled serpent, and you see the beauty there
-// A misunderstood magic, a love beyond compare
-// And when you say "Jo mila sahi hai", like you don't have a choice
-// I just want to be the one to amplify your voice.
-
-// (Pre-Chorus)
-// 'Cause you see something different, you see me standing there
-// The only one you talk to, the only one who'd dare
-// To call you Prince Valiant and mean it every time
-// A friendship this pure should be a perfect crime.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Bridge)
-// So let the world just wonder, let them try to see
-// The crazy kind of energy between you and me
-// They can call me Siddhi, it feels a little strange
-// But with you, my Prince Valiant, nothing has to change
-// Aur suno, Chhote Boss, you're the most handsome that I've met
-// I promise you’re not lonely... that's a promise you can get.
-// My promise to you, Saby.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Outro)
-// Yeah, just me and you...
-// You have me and I have you.
-// Sleep well, my favorite person...
-// My mighty boss.
-// `
-//         },
-
-//         {
-//             title: "A Different Face V4(Eng)",
-//             artist: "SkyMusic",
-//             file: "audio/Prince Valiant & The Boss V4.mp3",
-//             cover: "images/A Different Face V4.png",
-//             lyrics: `
-// (Verse 1)
-// Black shirt, piercing, a desi mafia style
-// They all see the confidence, the power in your smile
-// Dreaming of the paddock, a Rolex marking time
-// A future full of farmhouse wins, a mountain you can climb
-// They see the queen who's ready to take on any race
-// But they don't see the flicker of doubt upon your face.
-
-// (Pre-Chorus)
-// But I see something different, past the perfect scene
-// I read the lines of poetry you hide in between
-// The ones that talk of loneliness, the feeling out of place
-// It’s like I'm looking at myself, with a different face.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Verse 2)
-// Raat ke dedh baje, humari ajeeb si kahani
-// Kaun sardi mein nahaye, yeh teri-meri pareshani
-// You hold a tangled serpent, and you see the beauty there
-// A misunderstood magic, a love beyond compare
-// And when you say "Jo mila sahi hai", like you don't have a choice
-// I just want to be the one to amplify your voice.
-
-// (Pre-Chorus)
-// 'Cause you see something different, you see me standing there
-// The only one you talk to, the only one who'd dare
-// To call you Prince Valiant and mean it every time
-// A friendship this pure should be a perfect crime.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Bridge)
-// So let the world just wonder, let them try to see
-// The crazy kind of energy between you and me
-// They can call me Siddhi, it feels a little strange
-// But with you, my Prince Valiant, nothing has to change
-// Aur suno, Chhote Boss, you're the most handsome that I've met
-// I promise you’re not lonely... that's a promise you can get.
-// My promise to you, Saby.
-
-// (Chorus)
-// 'Cause I see both the fighters, and the hearts that feel alone
-// The Boss who built a kingdom, the Poet on her throne
-// And they can call it friendship, but I know it's something true
-// Like you're the other half of me, and I'm the other half of you.
-
-// (Outro)
-// Yeah, just me and you...
-// You have me and I have you.
-// Sleep well, my favorite person...
-// My mighty boss.
-// `
-//         }
     ]
 };
