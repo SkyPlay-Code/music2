@@ -407,9 +407,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Trigger on load in case we refreshed inside the app
     // Check if the login screen is already hidden (user previously logged in in this tab)
-    if(appContainer.classList.contains('visible') || sessionStorage.getItem('sanctuary_unlocked_playlist')) {
-        window.initializePlayer();
-    }
+    // if(appContainer.classList.contains('visible') || sessionStorage.getItem('sanctuary_unlocked_playlist')) {
+    //     window.initializePlayer();
+    // }
     
     // Make sure we have a reference to the observer for dynamic visibility changes from auth.js
     const observer = new MutationObserver((mutations) => {
