@@ -978,6 +978,70 @@ I’ll stay right here... I won’t let you down.
 Just you and me.
 Just you... and me.`
         },
+        {
+            title: "Kintsugi Hands",
+            artist: "SkyMusic",
+            file: "audio/Kintsugi Hands.mp3",
+            cover: "images/Kintsugi Hands.png",
+            lyrics: `[Verse 1]
+You said she never held you right,
+first grade, you mapped an exit in your mind—
+I didn't try to fix the cracks, just said
+I'd fill them slow, with something that won't break this time.
+Your hand was shaking when I touched it first,
+you pulled me back before I let you go—
+peace, you whispered, like you'd found a word
+for something you'd been searching for but didn't know.
+
+[Chorus]
+We're not just looking anymore,
+we're making something on this bedroom floor—
+your voice, my lines, the food you made,
+turning every fracture into something we don't have to name.
+Not a story now, just us,
+two people learning what it means to trust—
+the glass is cracked, but look how it shines,
+we filled it all with gold, one piece at a time.
+
+[Verse 2]
+You blocked his number, said you liked this version,
+"not broken, just done burning energy on ghosts"—
+I watched you drop the weight you carried years,
+traded armor for the kind of peace that matters most.
+Sometimes too sweet, the one thing we both hate—
+small crimes, late nights, your chaos and my logic,
+you're the only mess I never want to translate.
+
+[Chorus]
+We're not just breathing anymore,
+we're architects with blueprints on the floor—
+your scars, my hands, the quiet we made,
+every broken thing we turned into a place we're not afraid.
+Not a tribe, not a vow, just home,
+two exiles who stopped trying to atone—
+the glass is cracked, but watch it gleam,
+we filled it slow with gold, now it's the only thing we need.
+
+[Bridge]
+You asked me once if I'd stay.
+I didn't answer.
+I just kept showing up.
+That's the only language I know.
+She was wrong.
+You deserved every hug.
+And I'll spend every quiet hour
+proving it with my hands.
+
+[Final Chorus]
+We're not just staring anymore,
+we're living in the thing we built before—
+your chaos, my quiet, the mess we chose,
+every crack we filled with gold until the whole thing glowed.
+Not a kingdom, not a dream,
+just two people and the space between—
+the glass is cracked, we let it be,
+we filled it all with gold, and now it's all we see.`
+        },
 //         {
 //             title: "A Different Face",
 //             artist: "SkyMusic",
